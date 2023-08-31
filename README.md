@@ -1,11 +1,9 @@
+<!DOCTYPE html>
 <html>
-
-  Text Here
-
-  <a href="https://www.fau.edu">Link Words</a>
-
-  
+<head>
+    <title>Your Page Title</title>
+</head>
+<body>
+    <!-- Your content goes here -->
+</body>
 </html>
-
-
-
