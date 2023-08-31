@@ -2,7 +2,7 @@
 
   Text Here
 
-  <a href="www.fau.edu">Link Words</a>
+  <a href="https://www.fau.edu">Link Words</a>
 
   
 </html>
