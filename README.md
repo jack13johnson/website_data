@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <Hello></title>
+    <title>Hello Everybody</title>
 </head>
 <body>
     <!-- Your content goes here -->
